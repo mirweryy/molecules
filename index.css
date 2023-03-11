@@ -1,0 +1,41 @@
+.n1_class{
+    position: absolute;
+    top: 730px;
+    width: 50px;
+    left: 0;
+}
+
+.n2_class{
+    position: absolute;
+    top: 730px;
+    width: 50px;
+    left: 55px;
+}
+.n3_class{
+    position: absolute;
+    top: 730px;
+    width: 50px;
+    left: 295px;
+}
+
+.size_class{
+    position: absolute;
+    top: 730px;
+    width: 50px;
+    left: 110px;
+}
+
+.btn_class{
+    position: absolute;
+    top: 730px;
+    width: 125px;
+    left: 165px;
+}
+
+.box{
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+    top: 0px;
+    left: 0px;
+}
